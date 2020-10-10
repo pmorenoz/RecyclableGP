@@ -4,7 +4,7 @@ This repository contains the Pytorch implementation of Recyclable Gaussian Proce
 
 Please, if you use this code, cite the following [preprint](https://arxiv.org/abs/2010.02554):
 ```
-@article{MorenoArtesAlvarez19,
+@article{MorenoArtesAlvarez20,
   title = {Recyclable Gaussian Processes},
   author = {Moreno-Mu\~noz, Pablo and Art\'es-Rodr\'iguez, Antonio and \'Alvarez, Mauricio A},
   journal = {arXiv preprint arXiv:2010.02554},
